@@ -1,0 +1,21 @@
+# 欢迎你
+
+# Welcome to Real World
+
+现在是**公元二零二一年二月三日二十二时十八分58秒**
+
+😊 你看到这个的时间是:
+
+
+<div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/1816670"><span style="color:gray;">Current local time in</span><br />Beijing, China</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=large&timezone=Asia%2FShanghai" width="100%" height="140" frameborder="0" seamless></iframe> </div>
+
+
+> 你非常幸运，你出生在了充满**中国哲学**的物理世界
+
+> 中国艺术哲学，将伴随你的一生
+
+- 我希望你能够在科学的世界中尽情探索，追寻
+
+- 再次欢迎你！期待你的到来
+
+- 你的母亲和父亲
