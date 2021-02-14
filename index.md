@@ -11,7 +11,16 @@ https://www.timeanddate.com/worldclock/fullscreen.html?n=33#
 <iframe 
     width="800" 
     height="450" 
-    src="https://v.miaopai.com/iframe?scid=SvyHaHOczsp7B6ftW86oqMMz62-h5ai6~Fwp8A__"
+    src="http://free.timeanddate.com/clock/i7ofa43o/n33/tlcn8/fn7/fs20/tct/pct/ftb/tt0/th2"
+    allowtransparency=”yes”
+    frameborder=”0”
+    allowfullscreen>
+</iframe>
+
+<iframe 
+    width="800" 
+    height="450" 
+    src="https://www.timeanddate.com/worldclock/fullscreen.html?n=33#"
     allowtransparency=”yes”
     frameborder=”0”
     allowfullscreen>
