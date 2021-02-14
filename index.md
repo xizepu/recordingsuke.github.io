@@ -7,10 +7,13 @@
 - ^_^ 你看到这个的时间是:
 
 https://www.timeanddate.com/worldclock/fullscreen.html?n=33#
-```python
-from IPython.display import IFrame
-IFrame('https://baidu.com', width=1000, height=700)
-```
+ <iframe  
+ height=850 
+ width=90% 
+ src="http://mctool.wangmingchang.com/index/jspay/dashang"  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
 
 
 - 你非常幸运。出生在充满**中国哲学和东方艺术**的物理世界
