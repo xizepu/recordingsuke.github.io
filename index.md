@@ -8,6 +8,10 @@
 
 ![](http://free.timeanddate.com/clock/i7ofa43o/n33/tlcn8/fn7/fs20/tct/pct/ftb/tt0/th2)
 
+<iframe
+  src="http://free.timeanddate.com/clock/i7ofa43o/n33/tlcn8/fn7/fs20/tct/pct/ftb/tt0/th2"
+></iframe>
+
 - 你非常幸运。出生在充满**中国哲学和东方艺术**的物理世界
 
 - 中国艺术哲学，是你一生的财富，将永久伴随你
