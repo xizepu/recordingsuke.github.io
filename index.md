@@ -6,7 +6,7 @@
 
 - ^_^ 你看到这个的时间是:
 
-![](https://www.timeanddate.com/worldclock/china/beijing)
+https://www.timeanddate.com/worldclock/fullscreen.html?n=33#
 
 - 你非常幸运。出生在充满**中国哲学和东方艺术**的物理世界
 
